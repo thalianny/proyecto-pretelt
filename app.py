@@ -1,0 +1,2 @@
+from controlador.ropa_controlador import mostrar_catalogo
+mostrar_catalogo()
